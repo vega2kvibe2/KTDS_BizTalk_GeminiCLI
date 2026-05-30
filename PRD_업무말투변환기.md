@@ -284,12 +284,12 @@ Content-Type: application/json
 
 ### STEP 1. 환경 준비 
 
-1. GitHub 레포지토리 생성 (`KTDS_BizTalk_GeminiCLI`)
-2. 디렉토리 구조 생성
-3. `.gitignore` 작성 — `.env` 반드시 포함
-4. Upstage API 키 발급 및 `.env` 파일 작성
-5. `requirements.txt` 작성하고 의존성의 버전(use context7)을 명시해야 함
-6. 가상환경(`venv`) 폴더를 생성하고 `requirements.txt` 명시된 의존성을 가상환경에 설치해야 함
+1. [x] GitHub 레포지토리 생성 (`KTDS_BizTalk_GeminiCLI`)
+2. [x] 디렉토리 구조 생성
+3. [x] `.gitignore` 작성 — `.env` 반드시 포함
+4. [x] Upstage API 키 발급 및 `.env` 파일 작성
+5. [x] `requirements.txt` 작성하고 의존성의 버전(use context7)을 명시해야 함
+6. [x] 가상환경(`venv`) 폴더를 생성하고 `requirements.txt` 명시된 의존성을 가상환경에 설치해야 함
 
 ---
 
